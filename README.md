@@ -57,7 +57,7 @@ Sorceryを使った簡単なメールアドレスとパスワードによる認�
 
 
 ### 画面遷移図
-Figma：https://www.figma.com/board/KAd0Yjtj00VSDmlCk6ZSTT/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=vWf4NAWFlgMci4v4-1
+Figma：https://www.figma.com/board/KAd0Yjtj00VSDmlCk6ZSTT/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=UTJr5pilMu1HxLZL-1
 
 ### READMEに記載した機能
 - [ ] ユーザー登録機能
