@@ -1,6 +1,6 @@
 # -
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/72335fe3b06aa9a8a373d50128ba2d21.png)](https://gyazo.com/72335fe3b06aa9a8a373d50128ba2d21)
+[![Image from Gyazo](https://i.gyazo.com/49f28a73092781945cc8f0ade510c17d.png)](https://gyazo.com/49f28a73092781945cc8f0ade510c17d)
 
 ### 本サービスの概要
 ■ サービス概要
